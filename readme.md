@@ -1,6 +1,7 @@
-resume1£º¸öÈË¼òÀú°æ±¾1
-
-wwwÄ¿Â¼ÏÂÎªÉú²ú»·¾³£»srcÏÂÎª¿ª·¢»·¾³£»
-ÒıÓÃËµÃ÷£º
-wwwÄ¿Â¼ÏÂindex.htmlÎÄ¼şÄÚÈİÒıÓÃµÄindex-xxxx.cssºÍindex-xxx.js
-ĞèÒªĞŞ¸ÄÎªindex.cssºÍindex.js·½¿Éµ÷ÓÃ¡£
+resume1ï¼šä¸ªäººç®€å†ç‰ˆæœ¬1
+version:1.0.0
+date:2017-3-5 20:00
+wwwç›®å½•ä¸‹ä¸ºç”Ÿäº§ç¯å¢ƒï¼›srcä¸‹ä¸ºå¼€å‘ç¯å¢ƒï¼›
+å¼•ç”¨è¯´æ˜ï¼š
+wwwç›®å½•ä¸‹index.htmlæ–‡ä»¶å†…å®¹å¼•ç”¨çš„index-xxxx.csså’Œindex-xxx.js
+éœ€è¦ä¿®æ”¹ä¸ºindex.csså’Œindex.jsæ–¹å¯è°ƒç”¨ã€‚
