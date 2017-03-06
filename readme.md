@@ -1,3 +1,5 @@
-resume3:¸öÈË¼òÀú°æ±¾3
-Hybrid-Hbuilder-MUI¿ò¼Ü¡£
-´ò°üAndroidÆ½Ì¨apk¡£
+resume3:ä¸ªäººç®€å†ç‰ˆæœ¬3<br>
+version:3.0.0<br>
+date:2017-3-6 9:00<br>
+Hybrid-Hbuilder-MUIæ¡†æ¶ã€‚<br>
+æ‰“åŒ…Androidå¹³å°apkã€‚<br>
