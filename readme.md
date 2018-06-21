@@ -1,4 +1,4 @@
-resume1：个人简历版本1<br>
+resume1：resume<br>
 version:1.0.0<br>
 date:2017-3-5 20:00<br>
 www目录下为生产环境；src下为开发环境；<br>
